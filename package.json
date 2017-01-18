@@ -1,0 +1,14 @@
+{
+  "name": "app-quote",
+  "version": "1.0.0",
+  "description": "Displays new quote",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "monika",
+  "license": "",
+  "dependencies": {
+    "express": "^3.8.6"
+  }
+}
