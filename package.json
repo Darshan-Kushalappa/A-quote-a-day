@@ -1,0 +1,14 @@
+{
+  "name": "a-quote-a-day-assignment",
+  "version": "1.0.0",
+  "description": "Displays a random quote on browser refresh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushalappa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
